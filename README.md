@@ -69,11 +69,20 @@ Follow these steps:
 <!-- USAGE EXAMPLES -->
 ## Usage
 1. Run the application with the command:
+   
+   If you are in the same directory stay there or switch to the same directory:
    ```sh
-   python pathtofile/SMARTFINDER_IOANNIS.py
+   python SMARTFINDER_IOANNIS.py
    ```
+   to switch directory use:
+    ```sh
+   cd
+   ```
+
 2. Click on the "Scan My Network" button to start scanning for devices in the connected network.
+
 3. Read all the scan results displayed in the application to recognize the connected devices. The results will show the IP, MAC addresses, Operating system, and the Manufacturer of detected devices. This information will help you identify unauthorized devices on your network in order to take the steps to secure the network usually the ones that the owner cannot recognize in the results are the unauthorised ones.
+
 4. Read and follow all the security recommendations regarding network security, device protection, and password strategies to significantly increase your protection against attacks.
 
 Examples: 
